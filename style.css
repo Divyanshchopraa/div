@@ -1,0 +1,13 @@
+body{
+    font-size: 3em;
+    font-family: Verdana;
+    text-align: center;
+}
+button{
+    font-size: larger;
+    color: white;
+    background-color: red;
+}
+input{
+    font-size: large;
+}
